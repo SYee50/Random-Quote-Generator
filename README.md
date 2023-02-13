@@ -1,5 +1,5 @@
-**Random Quote Generator**
-
+Random Quote Generator**
+===
 
 **How to Request a quote**
   1.	Create a blank text file named: quote-service.txt
