@@ -17,3 +17,6 @@ Random Quote Generator
 
   	with open(“quote-service.txt”, “r”) as quo_serv:
   		random_quote = quo_serv.read()
+
+## UML Sequence Diagram
+![image](https://github.com/SYee50/Random-Quote-Generator/blob/main/UML%20Sequence%20Diagram.png)
