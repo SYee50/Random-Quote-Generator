@@ -6,7 +6,7 @@ Random Quote Generator
   2.	Run quote_generator.py in terminal using the following command: python quote_generator.py
   3.	Send a request using the following command (in python):
 
-        with open(“quote-service.txt”, “w”) as quo_serv:
+	with open(“quote-service.txt”, “w”) as quo_serv:
 		quo_serv.write(“quote”)
 
 
